@@ -1,39 +1,48 @@
-# rune
+================
+User Guide
+================
 
 The Valhalla of Python
 
 Warning: This is a joke... or not.
 
-## Documentation
+Documentation
+============
 
 See https://impalah.github.io/rune/
 
-## Installation
+
+Installation
+============
 
 Installing from PyPI:
 
-```bash
-pip install rune
-```
+.. code-block:: bash
+   pip install rune
 
 Or from the awesome source code:
-```bash
-git clone git@github.com:impalah/rune.git
-```
 
-## Usage
+.. code-block:: bash
+   git clone git@github.com:impalah/rune.git
+
+
+Usage
+============
 
 From the Python shell::
 
-```bash
-import rune
-```
+.. code-block:: python
+   import rune
+
 
 Enjoy the wisdom!
 
-## Contributing
+
+Contributing
+============
 
 Clearly, the code that generates `RUNE` is too straightforward.
 
 If you can make it better, then do so.
+
 
