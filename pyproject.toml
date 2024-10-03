@@ -1,14 +1,14 @@
 [tool.poetry]
-name = "rune"
+name = "cathalla"
 version = "0.0.3"
 description = "The Valhalla of Python"
 authors = ["impalah <impalah@gmail.com>"]
 readme = "README.md"
-packages = [{include = "rune", from = "src"}]
+packages = [{include = "cathalla", from = "src"}]
 license = "MIT"
-homepage = "https://impalah.github.io/rune/"
-repository = "https://github.com/impalah/rune"
-documentation = "https://impalah.github.io/rune/"
+homepage = "https://impalah.github.io/cathalla/"
+repository = "https://github.com/impalah/cathalla"
+documentation = "https://impalah.github.io/cathalla/"
 keywords = ["valhalla", "python"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -38,5 +38,5 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.urls]
-"Documentation" = "https://impalah.github.io/rune/"
-"Source" = "https://github.com/impalah/rune"
+"Documentation" = "https://impalah.github.io/cathalla/"
+"Source" = "https://github.com/impalah/cathalla"

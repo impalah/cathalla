@@ -1,4 +1,4 @@
-# rune
+# cathalla
 
 The Valhalla of Python
 
@@ -6,19 +6,19 @@ Warning: This is a joke... or not.
 
 ## Documentation
 
-See https://impalah.github.io/rune/
+See https://impalah.github.io/cathalla/
 
 ## Installation
 
 Installing from PyPI:
 
 ```bash
-pip install rune
+pip install cathalla
 ```
 
 Or from the awesome source code:
 ```bash
-git clone git@github.com:impalah/rune.git
+git clone git@github.com:impalah/cathalla.git
 ```
 
 ## Usage
@@ -26,14 +26,14 @@ git clone git@github.com:impalah/rune.git
 From the Python shell::
 
 ```bash
-import rune
+import cathalla
 ```
 
 Enjoy the wisdom!
 
 ## Contributing
 
-Clearly, the code that generates `RUNE` is too straightforward.
+Clearly, the code that generates `CATHALLA` is too straightforward.
 
 If you can make it better, then do so.
 

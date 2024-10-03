@@ -9,7 +9,7 @@ Warning: This is a joke... or not.
 Documentation
 ============
 
-See https://impalah.github.io/rune/
+See https://impalah.github.io/cathalla/
 
 
 Installation
@@ -18,12 +18,12 @@ Installation
 Installing from PyPI:
 
 .. code-block:: bash
-   pip install rune
+   pip install cathalla
 
 Or from the awesome source code:
 
 .. code-block:: bash
-   git clone git@github.com:impalah/rune.git
+   git clone git@github.com:impalah/cathalla.git
 
 
 Usage
@@ -32,7 +32,7 @@ Usage
 From the Python shell::
 
 .. code-block:: python
-   import rune
+   import cathalla
 
 
 Enjoy the wisdom!
